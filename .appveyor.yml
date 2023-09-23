@@ -1,4 +1,4 @@
-image: "Ubuntu2204"
+image: "Ubuntu"
 stack: node 18.12.1
 branches:
   only:
